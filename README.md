@@ -1,4 +1,3 @@
-Start Mandy 
 Mandy's question: How has the househoulds energy consumption changed over time? 
 ```{r}
 data1 <- read_csv(file= "household_power_consumption.txt")
